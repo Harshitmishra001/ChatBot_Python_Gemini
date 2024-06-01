@@ -1,0 +1,42 @@
+/* Style the header */
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+
+/* Style the input field */
+
+
+/* Style the input field */
+
+input[type="text"] {
+    /* Target input elements of type text */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+/* Style the subheaders */
+
+.subheader {
+    font-weight: bold;
+    color: #007bff;
+}
+
+
+/* Style the subheaders */
+
+.response_subheader {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.chat_history_subheader {
+    font-weight: bold;
+    color: #6c757d;
+    /* Adjust color as needed */
+}
